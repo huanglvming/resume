@@ -2,7 +2,7 @@
 
 * http://resume.congm.in
 
-Fork或借鉴请注明出处 [@ Cong Min](https://congm.in) . Thx
+Fork或借鉴请注明出处 [@ Cong Min](https://github.com/mcc108/resume) . Thx
 
 前提: 已安装`nodejs` `npm`
 - 0、`npm i` 安装依赖
